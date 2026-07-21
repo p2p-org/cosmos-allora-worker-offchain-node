@@ -1,6 +1,6 @@
 module allora_offchain_node
 
-go 1.22.5
+go 1.23
 
 // github.com/allora-network/allora-offchain-node/pkg/worker_coin_predictor_10min_eth v0.0.0
 // github.com/allora-network/allora-offchain-node/pkg/worker_coin_predictor_20min v0.0.0
@@ -13,7 +13,7 @@ require (
 	github.com/ignite/cli/v28 v28.5.0
 	github.com/joho/godotenv v1.5.1
 	github.com/prometheus/client_golang v1.19.0
-	github.com/rs/zerolog v1.33.0
+	github.com/rs/zerolog v1.35.1
 	github.com/stretchr/testify v1.9.0
 )
 
@@ -106,7 +106,7 @@ require (
 	github.com/kr/text v0.2.0 // indirect
 	github.com/linxGnu/grocksdb v1.8.14 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
-	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
@@ -146,7 +146,7 @@ require (
 	golang.org/x/mod v0.20.0 // indirect
 	golang.org/x/net v0.28.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
-	golang.org/x/sys v0.23.0 // indirect
+	golang.org/x/sys v0.29.0 // indirect
 	golang.org/x/term v0.23.0 // indirect
 	golang.org/x/text v0.17.0 // indirect
 	golang.org/x/tools v0.24.0 // indirect
