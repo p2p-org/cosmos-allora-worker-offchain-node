@@ -1,6 +1,6 @@
 module allora_offchain_node
 
-go 1.22.5
+go 1.24
 
 // github.com/allora-network/allora-offchain-node/pkg/worker_coin_predictor_10min_eth v0.0.0
 // github.com/allora-network/allora-offchain-node/pkg/worker_coin_predictor_20min v0.0.0
@@ -101,7 +101,7 @@ require (
 	github.com/improbable-eng/grpc-web v0.15.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jmhodges/levigo v1.0.0 // indirect
-	github.com/klauspost/compress v1.17.9 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/linxGnu/grocksdb v1.8.14 // indirect
